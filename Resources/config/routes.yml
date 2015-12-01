@@ -1,0 +1,5 @@
+ais_pertemuan_mahasiswa_pertemuan_mahasiswa:
+    type: rest
+    prefix: /v1
+    resource: Ais\PertemuanMahasiswaBundle\Controller\PertemuanMahasiswaController
+    name_prefix:  api_1_ # naming collision
