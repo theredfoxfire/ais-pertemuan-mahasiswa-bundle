@@ -171,4 +171,3 @@ class PertemuanMahasiswa implements PertemuanMahasiswaInterface
         return $this->is_delete;
     }
 }
-
